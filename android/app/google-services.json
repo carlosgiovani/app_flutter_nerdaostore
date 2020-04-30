@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "888264668576",
+    "firebase_url": "https://lojanerdao.firebaseio.com",
+    "project_id": "lojanerdao",
+    "storage_bucket": "lojanerdao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888264668576:android:0795f325c873d8248560c5",
+        "android_client_info": {
+          "package_name": "com.carlos.appflutterlojanerdao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888264668576-5pefjaj8v10c0mhrfhf7grre298pq8n3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carlos.appflutterlojanerdao",
+            "certificate_hash": "e23ae33fbb7a78ee78ed34141a442a2bffb23418"
+          }
+        },
+        {
+          "client_id": "888264668576-9e1et1ifosggmangvefsndkgo1ueqfcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZFRMZWlzERggC1WoUlGYF7kegJyHsU68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888264668576-9e1et1ifosggmangvefsndkgo1ueqfcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

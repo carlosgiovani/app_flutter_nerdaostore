@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>888264668576-fvnd4v8ejgk5ngiou118i68de2bts7jh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.888264668576-fvnd4v8ejgk5ngiou118i68de2bts7jh</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>888264668576-5pefjaj8v10c0mhrfhf7grre298pq8n3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBEGL6tjWeQ_3VPE7Dc-iDd36UJQ0PIxLE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>888264668576</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.carlos.appflutterlojanerdao</string>
+	<key>PROJECT_ID</key>
+	<string>lojanerdao</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lojanerdao.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:888264668576:ios:6b2294675e5fe02d8560c5</string>
+	<key>DATABASE_URL</key>
+	<string>https://lojanerdao.firebaseio.com</string>
+</dict>
+</plist>
