@@ -2,8 +2,6 @@ import 'dart:io';
 
 import 'package:appflutterlojanerdao/models/user_model.dart';
 import 'package:appflutterlojanerdao/screens/home_screen.dart';
-import 'package:appflutterlojanerdao/screens/login_screen.dart';
-import 'package:appflutterlojanerdao/screens/signup_screen.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

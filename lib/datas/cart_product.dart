@@ -1,5 +1,3 @@
-import 'dart:math';
-
 import 'package:appflutterlojanerdao/datas/product_data.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 

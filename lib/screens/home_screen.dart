@@ -1,4 +1,5 @@
 import 'package:appflutterlojanerdao/tabs/home_tab.dart';
+import 'package:appflutterlojanerdao/tabs/orders_tab.dart';
 import 'package:appflutterlojanerdao/tabs/products_tab.dart';
 import 'package:appflutterlojanerdao/widgets/cart_button.dart';
 import 'package:appflutterlojanerdao/widgets/custom_drawer.dart';
@@ -29,7 +30,14 @@ class HomeScreen extends StatelessWidget {
           floatingActionButton: CartButton(),
         ),
         Container(color: Colors.blue,),
-        Container(color: Colors.green,),
+        Scaffold(
+          appBar: AppBar(
+            title: Text("Meus Pedidos"),
+            centerTitle: true,
+          ),
+          body: OrdersTab(),
+          drawer: CustomDrawer(_pageController),
+        ),
       ],
     );
   }
